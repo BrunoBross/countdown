@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background-color: #FFF;
+}
+
+div{
+  display: flex;
+}
+
+.image{
+  width: 100vw;
+}
+
